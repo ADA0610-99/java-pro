@@ -5,3 +5,4 @@ plugins {
 rootProject.name = "test"
 
 include("L01-gradle")
+include("hw01-gradle")
